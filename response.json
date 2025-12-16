@@ -1,0 +1,86 @@
+[
+    {
+        "exchangedate": "15.12.2025",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 42.1936,
+        "units": 1,
+        "rate_per_unit": 42.1936,
+        "group": "1",
+        "calcdate": "12.12.2025"
+    },
+    {
+        "exchangedate": "14.12.2025",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 42.2721,
+        "units": 1,
+        "rate_per_unit": 42.2721,
+        "group": "1",
+        "calcdate": "11.12.2025"
+    },
+    {
+        "exchangedate": "13.12.2025",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 42.2721,
+        "units": 1,
+        "rate_per_unit": 42.2721,
+        "group": "1",
+        "calcdate": "11.12.2025"
+    },
+    {
+        "exchangedate": "12.12.2025",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 42.2721,
+        "units": 1,
+        "rate_per_unit": 42.2721,
+        "group": "1",
+        "calcdate": "11.12.2025"
+    },
+    {
+        "exchangedate": "11.12.2025",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 42.2812,
+        "units": 1,
+        "rate_per_unit": 42.2812,
+        "group": "1",
+        "calcdate": "10.12.2025"
+    },
+    {
+        "exchangedate": "10.12.2025",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 42.1838,
+        "units": 1,
+        "rate_per_unit": 42.1838,
+        "group": "1",
+        "calcdate": "09.12.2025"
+    },
+    {
+        "exchangedate": "09.12.2025",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 42.07,
+        "units": 1,
+        "rate_per_unit": 42.07,
+        "group": "1",
+        "calcdate": "08.12.2025"
+    }
+]
